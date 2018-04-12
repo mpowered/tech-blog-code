@@ -1,0 +1,6 @@
+_site
+dist
+dist-newstyle
+_cache
+.stack-work
+.ghc.environment.*
